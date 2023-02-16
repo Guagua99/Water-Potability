@@ -1,2 +1,2 @@
 # Water-Potability
-Code for Water Potability project
+Dataset and code for Water Potability project
